@@ -1,0 +1,2 @@
+FLASK_APP=flask-learning
+FLASK_ENV=development
